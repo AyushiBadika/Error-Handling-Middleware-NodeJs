@@ -1,0 +1,15 @@
+{
+  "name": "week-test-error-handling",
+  "version": "1.0.0",
+  "description": "Creating error handler for user registration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayushi Badika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
